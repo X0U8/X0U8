@@ -44,12 +44,6 @@
 
 <br>
 
-<h2 align="center">Animated Visual</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/svg/hello.svg" width="500" />
-</p>
-
 <br>
 
 <h2 align="center">Connect</h2>
